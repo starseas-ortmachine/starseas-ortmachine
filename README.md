@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 🔭 I'm currently working on something amazing!
 🌱 I’m currently learning C/C++ and python!
+
+# Using Languages
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
