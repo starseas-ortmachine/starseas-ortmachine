@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 🌱 I’m currently learning C/C++ and python!
 
 # Using Languages
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cs,html,css)](https://skillicons.dev)
 
-# Learning Languages
-[![My Skills](https://skillicons.dev/icons?i=js,react,reactnative)](https://skillicons.dev)
+# Learning 
+[![My Skills](https://skillicons.dev/icons?i=js,react,linux,unreal,unity)](https://skillicons.dev)
+
+# My Tools and Devices
+[![My Skills](https://skillicons.dev/icons?i=apple,vscode,discord,github,obsidian,zsh,)](https://skillicons.dev)
